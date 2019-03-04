@@ -1,0 +1,5 @@
+Assignments
+
+1. From Step 13, you'll notice that if you hit any of the red buttons, that either the game will end of the application quits. Come up with a solution to prevent this from happening. One option is to use another screen that allows the user to confirm their action; there may be others.
+
+2. From Step 13, use this for your own game. Change settings to fit the game or remove it entirely.

@@ -1,0 +1,31 @@
+Hour 1: Basic Components
+  Images
+    Rectangles made up of pixels.
+    Pixels are dots on the screen made up of RGB and alpha.
+    Stored in various lossless formats: Bitmap
+    Stored in various lossy formats: PNG, JPEG.
+  Sound
+    Samples of sounds and songs.
+    Stored in various lossless formats: WAV, FLAC.
+    Stored in various lossy formats: MP3, OGG.
+  Text
+    Dynamically generated images using fonts and strings.
+    Font is graphical template to represnt characters of a language.
+    Strings is a sequence of characters and symbols in a language.
+
+
+Hour 2: Basic Game Concepts
+  Timing
+    Needed to synchronize events in a game.
+    Delta Time: The time between the last and current call.
+  Input
+    User inreaction with the game.
+    Devices: Keyboard, Mouse, Touch Screen.
+  Hit Detection
+    Required to know whether objects have collided with each other.
+    Rectangular Collision
+    Distance Collision
+    Per Pixel Collision
+
+
+
